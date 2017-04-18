@@ -1,0 +1,113 @@
+p {
+  text-position: center;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+
+#li1 {
+    float: left;
+}
+
+
+h6 {
+font-style: italic;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#grant {
+  
+  box-shadow: 0 0 10px 0;
+  height: 250px;
+  margin: -150px 150px;
+  float: right;
+}
+
+#portfolio {
+  position: relative;
+  margin: 0 auto;
+  text-align: left;
+  width: 800px;
+  top: 200px;
+}
+
+hr {
+  
+  position: relative;
+  top: 150px;
+  width: 70%;
+  height: 5px;
+  border: 0px;
+}
+
+#hr2 {
+   position: relative;
+   top: 400px;
+}
+
+form {
+  position: relative;
+  margin-top:  500px;
+ 
+}
+
+#footer {
+  position: absolute;
+  bottom: -1200px;
+}
+
+
+
+p1 {
+   font-weight: bold;
+  font-size: 30px;
+  color: silver;
+}
+
+
+#p3 {
+   font-weight: bold;
+  font-size: 30px;
+  color: silver; 
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  width: 800px;
+  top: 450px;
+}
+html body 
+{
+  background-color: DimGray;
+  color: black;
+  margin: 0px;
+  padding: 0px;
+  min-height: 100%;
+}
+
+#pic1 {
+position: relative;
+  top: 300px;
+  padding: 10px;
+ 
+}
